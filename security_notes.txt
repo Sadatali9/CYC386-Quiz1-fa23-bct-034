@@ -1,0 +1,3 @@
+Validate and sanitize all user inputs
+Use parameterized queries to prevent SQL injection
+Store passwords using strong hashing like bcrypt
